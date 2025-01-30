@@ -24,7 +24,7 @@
 
 <br clear="both">
 
-<img src="[https://raw.githubusercontent.com/kcconsigo/kcconsigo](https://github.com/kcconsigo/kcconsigo)/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/kcconsigo/kcconsigo/output/snake.svg" alt="Snake animation" />
 
 ###
 
