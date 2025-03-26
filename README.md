@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kc</h1>
-<h3 align="center">Automation Tester from Philippines</h3>
+<h3 align="center">Automation Test Engineer from Philippines</h3>
 
 - 🔭 I’m currently working on **Playwright Automation framework for Java and Javascript**
 
