@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kc</h1>
 <h3 align="center">Automation Test Engineer from Philippines</h3>
 
-- 🔭 I’m currently working on **Playwright Automation framework for Java and Javascript**
+- 🔭 I’m currently working on **Any Automation tool and framework will do**
 
-- 🌱 I’m currently learning **Playwright and Selenium Webdriver and TestNG**
+- 🌱 I’m currently learning **Playwright, Cypress.io, Robot Framework, Rest Assured, Karate Framework and Selenium**
 
 - 📫 How to reach me **https://www.linkedin.com/in/kclyn-cabelin-8724a5110/**
 
