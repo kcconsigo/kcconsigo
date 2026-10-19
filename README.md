@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Any Automation tool and framework will do**
 
-- 🌱 I’m currently learning **Playwright, Cypress.io, Robot Framework, Rest Assured, Karate Framework, Mabl, Database Backend, Selenium, Design Pattern, Copilot and MCP for AI Agentic tool, Software Engineering Principles, DevOps practices and Test Automation best practices like establishing code review, pull request and commit standards to meet the best standards for Quality Engineering and Test Automation in IT Industry**
+- 🌱 I’m currently learning **Playwright, Cypress.io, Robot Framework, Rest Assured, Karate Framework, Mabl, Database Backend, Selenium, Design Pattern, Copilot and MCP for AI Agentic tool, Software Engineering Principles, DevOps practices and Test Automation best practices like establishing code review, pull request and commit message standards to meet the best practices for Quality Engineering and Test Automation in IT Industry**
 
 - 📫 How to reach me **https://www.linkedin.com/in/kclyn-cabelin-8724a5110/**
 
