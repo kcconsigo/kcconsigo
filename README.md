@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Any Automation tool and framework will do**
 
-- 🌱 I’m currently learning **Playwright, Cypress.io, Robot Framework, Rest Assured, Karate Framework and Selenium**
+- 🌱 I’m currently learning **Playwright, Cypress.io, Robot Framework, Rest Assured, Karate Framework, Mabl, Database Backend and Selenium**
 
 - 📫 How to reach me **https://www.linkedin.com/in/kclyn-cabelin-8724a5110/**
 
